@@ -1,9 +1,8 @@
 # Heat Pump & Thermal Storage Simulation (Python)
 
-This project models the dynamic operation of a heat pump supplying a residential building over a 24-hour period.  
-It combines thermodynamic COP estimation, heating load modeling, regression-based forecasting, and ODE-based thermal storage simulation with on/off control.
+This project presents a Python-based dynamic simulation of a heat pump supplying a residential building over a 24-hour period. It combines thermodynamic COP estimation, building heating load modeling, regression-based forecasting, and ODE-based thermal storage simulation with ON/OFF control.
 
-The objective is to explore system performance, control behavior, and overall energy efficiency using Python.
+The objective is to analyze system performance, control behavior, and overall energy efficiency using numerical modeling methods relevant to renewable energy systems and energy performance forecasting.
 
 ---
 
