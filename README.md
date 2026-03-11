@@ -84,3 +84,9 @@ You can run the project using:
 - Simulate multi-day operation
 - Add seasonal performance evaluation (SCOP)
 - Integrate real weather dataset input
+
+## Additional Experiment: PV Power Forecasting
+
+This repository also includes a small experiment exploring photovoltaic power estimation and regression-based forecasting using synthetic irradiance and temperature data.
+
+Notebook: `pv_power_forecasting_experiment.ipynb`
